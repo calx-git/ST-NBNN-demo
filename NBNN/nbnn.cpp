@@ -22,7 +22,6 @@ using namespace std;
 #define DIR_DATASET          "./Dataset"  
 #define NAMELIST_SAMPLES     "sampleList-MHAD.txt"				
 #define NUM_SAMPLES          659									
-#define NUM_DATA_SPLIT       1										 
 
 #define NUM_JOINTS			 35
 #define NUM_CLASS            11								 
